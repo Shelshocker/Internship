@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+7fab9596-09de-4eaa-a980-999cdd1ba431,bb5ae8ae-3518-4e8b-a2e3-aed267d4e2b1,user_54435,2026-05-16T01:45:58.735Z,user,quick question - is there a payment plan available? I can't afford to pay the full semester upfront.,/pricing
+f3a4a318-16bb-41db-b493-1024270529d9,bb5ae8ae-3518-4e8b-a2e3-aed267d4e2b1,user_54435,2026-05-16T01:47:07.259Z,assistant,Yes! We offer a monthly payment plan that splits your semester balance into 4 equal payments with no interest.,/pricing
+d812ea2f-a0f0-4927-bf3d-94e9d6df5d8b,bb5ae8ae-3518-4e8b-a2e3-aed267d4e2b1,user_54435,2026-05-16T01:47:52.298Z,user,Where do I sign up for it? I can't find it anywhere on the website.,/pricing
+ecd19a5b-716c-4c01-9dea-dfd916cf77b3,bb5ae8ae-3518-4e8b-a2e3-aed267d4e2b1,user_54435,2026-05-16T01:50:51.944Z,assistant,You can enroll through the Student Portal under Bursar > Payment Plans. There is a $35 enrollment fee per semester.,/pricing
+87e9c8a5-628b-4baa-a480-efd80dcc1c86,bb5ae8ae-3518-4e8b-a2e3-aed267d4e2b1,user_54435,2026-05-16T01:53:31.804Z,user,Another fee... of course. Is there a fee for the fee too?,/pricing
+99a1e52e-675f-4bac-84ee-459ae22032d5,bb5ae8ae-3518-4e8b-a2e3-aed267d4e2b1,user_54435,2026-05-16T01:53:58.453Z,assistant,I understand your frustration with the additional costs. The enrollment fee is a one-time charge per semester.,/pricing

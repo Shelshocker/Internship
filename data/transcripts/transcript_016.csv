@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+70a6b80a-8d2a-4d6e-b229-56927f5afda6,2c541e95-841a-4b81-99fb-b8a631013cfb,user_55679,2026-06-06T10:10:11.971Z,user,why did tuition go up 8% this year? that's way above inflation,/tuition
+1ff8e61d-b334-4214-a4fa-045b34b2f86e,2c541e95-841a-4b81-99fb-b8a631013cfb,user_55679,2026-06-06T10:10:34.913Z,assistant,"The tuition increase reflects investments in new campus facilities, faculty hiring, and technology infrastructure upgrades. The Board of Trustees approved the increase in April.",/tuition
+e08ecca4-8d9b-4035-9c64-5ff7137c976e,2c541e95-841a-4b81-99fb-b8a631013cfb,user_55679,2026-06-06T10:11:57.308Z,user,that doesnt help students who are already struggling to pay. was there any student input?,/tuition
+6f39a5a1-db18-4433-829b-1903ce0212a1,2c541e95-841a-4b81-99fb-b8a631013cfb,user_55679,2026-06-06T10:13:16.625Z,assistant,The Student Government Association was consulted during the budget process. A student town hall was held in March.,/tuition
+0d9e6e9c-6a24-4389-9ce1-b41f9452ec64,2c541e95-841a-4b81-99fb-b8a631013cfb,user_55679,2026-06-06T10:14:16.991Z,user,nobody knew about that town hall. the communication at this school is terrible,/tuition
+40353aa1-9bf4-4986-8425-083451aa9a32,2c541e95-841a-4b81-99fb-b8a631013cfb,user_55679,2026-06-06T10:16:08.381Z,assistant,I understand your frustration. I'll share your feedback about improving communication around tuition decisions. You can also attend SGA meetings which are open to all students.,/tuition

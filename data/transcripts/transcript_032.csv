@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+eb96e8e2-3cd0-49a2-a922-e65bfaa5abcb,5796fd50-190b-4df2-9e3b-cc17d657ae62,,2026-07-05T02:26:18.645Z,user,When does the Spring semester start?,/calendar
+76ab7fd8-1447-4003-8134-0e52f671a613,5796fd50-190b-4df2-9e3b-cc17d657ae62,,2026-07-05T02:27:53.897Z,assistant,"The Spring semester begins January 13th, 2027. Move-in for residential students is January 11-12.",/calendar
+a6d162a9-b641-4a55-9cf4-727d284119f1,5796fd50-190b-4df2-9e3b-cc17d657ae62,,2026-07-05T02:30:21.212Z,user,When is the last day to drop a class without a W?,/calendar
+fe0f47e2-d4da-40ad-8c60-ebec360ecc21,5796fd50-190b-4df2-9e3b-cc17d657ae62,,2026-07-05T02:30:59.459Z,assistant,The last day to drop without a 'W' appearing on your transcript is January 27th (two weeks after classes begin).,/calendar
+1ef32ccb-0883-491a-9102-bdb4db77b81d,5796fd50-190b-4df2-9e3b-cc17d657ae62,,2026-07-05T02:32:37.652Z,user,And the last day to withdraw with a W?,/calendar
+9cf01a4d-1245-4523-85b3-20ff34f24b96,5796fd50-190b-4df2-9e3b-cc17d657ae62,,2026-07-05T02:33:33.419Z,assistant,"The withdrawal deadline is March 28th. After that date, you'll receive a WF (Withdrawal Failing) which impacts your GPA.",/calendar

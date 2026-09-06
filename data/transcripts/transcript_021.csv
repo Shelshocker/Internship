@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+2bbe314a-c703-426c-b5d7-5c350cddc8dc,45aa10f0-fadf-4b87-a386-6f747ca3ce08,user_75556,2026-06-08T11:51:52.136Z,user,What are the prerequisites for Organic Chemistry?,/courses
+ceba4c7d-d6ff-425e-b72d-cf6a3ff83af4,45aa10f0-fadf-4b87-a386-6f747ca3ce08,user_75556,2026-06-08T11:53:06.833Z,assistant,CHEM 301 (Organic Chemistry I) requires completion of CHEM 101 and CHEM 102 with a grade of C or better.,/courses
+0f16aabd-cb14-4519-a095-deb0ce285dfd,45aa10f0-fadf-4b87-a386-6f747ca3ce08,user_75556,2026-06-08T11:56:04.684Z,user,I got a C- in CHEM 102. Can I still take it?,/courses
+59119d52-74bd-4624-9bbf-781a2b9096a2,45aa10f0-fadf-4b87-a386-6f747ca3ce08,user_75556,2026-06-08T11:58:18.291Z,assistant,"Unfortunately, a C- does not meet the prerequisite requirement. You would need to retake CHEM 102 and earn a C or better.",/courses
+276f0154-b6a7-4f67-a9de-52c3706b5de7,45aa10f0-fadf-4b87-a386-6f747ca3ce08,user_75556,2026-06-08T12:00:20.302Z,user,OK understood. When is CHEM 102 offered again?,/courses
+927177e7-9011-4c29-b73d-0a148765f488,45aa10f0-fadf-4b87-a386-6f747ca3ce08,user_75556,2026-06-08T12:02:22.111Z,assistant,"CHEM 102 is offered every Fall and Spring semester, with limited Summer sessions.",/courses

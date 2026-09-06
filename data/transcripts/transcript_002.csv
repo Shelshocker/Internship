@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+3ca9483c-e4d0-4453-8d29-6a5113bc0d6b,3f75b69a-247e-408e-8393-160d1294017d,user_67120,2026-05-09T02:01:21.944Z,user,What immunizations are required for enrollment?,/support
+cf744d2f-7122-4cde-8c3e-95aa1d38ba21,3f75b69a-247e-408e-8393-160d1294017d,user_67120,2026-05-09T02:03:24.206Z,assistant,"Required immunizations include: MMR (2 doses), Meningococcal (ACWY), Tetanus/Tdap (within 10 years), and COVID-19 vaccination. A TB test is also required.",/support
+79619766-b5a3-4ec6-bddd-5a7e1bec4934,3f75b69a-247e-408e-8393-160d1294017d,user_67120,2026-05-09T02:05:31.168Z,user,Where do I upload my immunization records?,/support
+25346260-6191-4061-99ff-a601162dde88,3f75b69a-247e-408e-8393-160d1294017d,user_67120,2026-05-09T02:06:15.337Z,assistant,Upload them through the Student Health Portal at health.university.edu. Your doctor can also fax records to 555-0199.,/support
+55c1ac7c-4338-419d-b08a-29b57906a4d7,3f75b69a-247e-408e-8393-160d1294017d,user_67120,2026-05-09T02:07:20.310Z,user,What happens if I don't submit them by the deadline?,/support
+ab0c1d9e-393c-4083-8cd0-1a80bb9e26fb,3f75b69a-247e-408e-8393-160d1294017d,user_67120,2026-05-09T02:09:47.291Z,assistant,"A health hold will be placed on your account, preventing class registration. The deadline is 30 days before the semester starts.",/support

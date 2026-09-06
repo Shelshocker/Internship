@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+725ab500-44a2-4fcd-82f1-f87f9f44b05f,7d845414-8646-4487-a3c1-d1b04322cf18,user_35774,2026-05-25T07:35:38.827Z,user,What are the different dorm options for freshmen?,/housing
+9e997aa0-4a71-4eb1-a489-2df57c053ed4,7d845414-8646-4487-a3c1-d1b04322cf18,user_35774,2026-05-25T07:37:57.168Z,assistant,"Freshmen can choose from: Traditional halls (shared rooms, communal bathrooms - $4,200/semester), Suite-style (shared room, private bathroom - $5,100/semester), or Apartment-style (single room, shared kitchen - $5,800/semester).",/housing
+32e54987-5080-410f-a7cc-9bf78baa85ab,7d845414-8646-4487-a3c1-d1b04322cf18,user_35774,2026-05-25T07:38:23.214Z,user,Can I request a specific roommate?,/housing
+32dcc283-de90-45d0-b91c-281c276231db,7d845414-8646-4487-a3c1-d1b04322cf18,user_35774,2026-05-25T07:41:11.387Z,assistant,Yes! Both you and your preferred roommate need to list each other in the housing application. The system will match you automatically.,/housing
+048c56ae-1775-4a5a-a568-94010086d162,7d845414-8646-4487-a3c1-d1b04322cf18,user_35774,2026-05-25T07:41:37.913Z,user,That's awesome. Do all rooms come with WiFi?,/housing
+4e35705d-f3a7-414d-810c-958b4cf76766,7d845414-8646-4487-a3c1-d1b04322cf18,user_35774,2026-05-25T07:42:50.838Z,assistant,"Yes, all residential halls have high-speed WiFi included at no additional cost. Each room also has ethernet ports for wired connections.",/housing
+8e45ae12-aa41-4f72-8ce5-0493dd33d7ab,7d845414-8646-4487-a3c1-d1b04322cf18,user_35774,2026-05-25T07:44:18.433Z,user,"Great, this is very clear. Thanks!",/housing
+aa4362c0-dfc0-49f7-a168-8cc607172fe9,7d845414-8646-4487-a3c1-d1b04322cf18,user_35774,2026-05-25T07:45:41.385Z,assistant,You're welcome! Let me know if you have any other housing questions.,/housing

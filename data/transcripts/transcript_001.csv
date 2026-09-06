@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+fec9c956-45a5-4082-b531-f81f6b28f3a6,08b463f8-841d-4e73-b351-c8db182d7773,,2026-05-09T01:44:08.103Z,user,"Hi, I'm interested in applying for the Fall semester. What are the requirements?",/admissions
+b2cc102a-6388-41f5-84ae-77e7f5cdb8d8,08b463f8-841d-4e73-b351-c8db182d7773,,2026-05-09T01:45:35.533Z,assistant,"Great question! For Fall admission, you'll need to submit your high school transcripts, SAT/ACT scores, a personal essay, and two letters of recommendation. The deadline is March 15th.",/admissions
+5479a177-0b67-4e26-8635-be07d8262c61,08b463f8-841d-4e73-b351-c8db182d7773,,2026-05-09T01:46:41.253Z,user,Do you accept the Common App?,/admissions
+5465934f-3a8c-4253-82fb-98754666551b,08b463f8-841d-4e73-b351-c8db182d7773,,2026-05-09T01:48:34.862Z,assistant,"Yes, we accept both the Common Application and our own direct application portal. Both are equally considered.",/admissions
+0583defc-383d-4cf5-aae1-aff2508282c4,08b463f8-841d-4e73-b351-c8db182d7773,,2026-05-09T01:49:57.405Z,user,"That's really helpful, thanks! One more thing - is there an application fee?",/admissions
+5b6f97ae-771c-4299-963d-7a80aa2c307b,08b463f8-841d-4e73-b351-c8db182d7773,,2026-05-09T01:50:48.133Z,assistant,"The application fee is $50, but we offer fee waivers for students who qualify for free/reduced lunch programs. You can request one through the Common App.",/admissions
+80a6756d-de80-4b49-87ae-5ef77e007868,08b463f8-841d-4e73-b351-c8db182d7773,,2026-05-09T01:53:42.150Z,user,"Perfect, you've been super helpful. I'll start my application today!",/admissions
+992ccf61-7ff6-45fc-941e-aebd270446bb,08b463f8-841d-4e73-b351-c8db182d7773,,2026-05-09T01:55:46.835Z,assistant,Wonderful! Best of luck with your application. Feel free to reach out if you have any other questions.,/admissions

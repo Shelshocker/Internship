@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+c60ab852-9753-4969-a337-c6fba15ab387,9b7f83b0-f355-4e70-b48a-8a52ba7fbc8a,,2026-05-18T23:35:44.061Z,user,What's the difference between subsidized and unsubsidized loans?,/financial-aid
+64b05cf5-d954-42e8-b25f-4b26fd3fd510,9b7f83b0-f355-4e70-b48a-8a52ba7fbc8a,,2026-05-18T23:37:45.171Z,assistant,Subsidized loans don't accrue interest while you're in school at least half-time. Unsubsidized loans begin accruing interest from the disbursement date.,/financial-aid
+826497f2-759c-41ec-8c41-0e0b1dab465e,9b7f83b0-f355-4e70-b48a-8a52ba7fbc8a,,2026-05-18T23:38:27.537Z,user,Which one should I take?,/financial-aid
+78310048-1643-40d9-8fac-42c6b5b17d09,9b7f83b0-f355-4e70-b48a-8a52ba7fbc8a,,2026-05-18T23:40:41.243Z,assistant,Always accept subsidized loans first since they cost less over time. Then use unsubsidized loans only if needed. We recommend borrowing only what you truly need.,/financial-aid
+f52ac360-a61e-4133-ae85-6fc8c235abae,9b7f83b0-f355-4e70-b48a-8a52ba7fbc8a,,2026-05-18T23:41:44.622Z,user,Makes sense. How do I accept them in the portal?,/financial-aid
+757230aa-dac1-4421-b903-4ac7d84a5845,9b7f83b0-f355-4e70-b48a-8a52ba7fbc8a,,2026-05-18T23:44:20.555Z,assistant,"Log into the Financial Aid portal, go to 'Awards', and click 'Accept' or 'Decline' next to each loan. You'll also need to complete entrance counseling at studentaid.gov.",/financial-aid

@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+a285aa0f-e530-4119-861b-f476025e2e41,69431019-3795-489d-8efc-23360e8b5deb,user_81838,2026-06-18T00:02:55.553Z,user,I'm an international student from India. What documents do I need for the F-1 visa?,/international
+5791eb66-6a98-4b51-beae-70130efe6517,69431019-3795-489d-8efc-23360e8b5deb,user_81838,2026-06-18T00:04:45.863Z,assistant,"You'll need: your I-20 form (issued after admission), valid passport, DS-160 confirmation, financial documentation showing ability to cover costs, and SEVIS fee receipt.",/international
+360699bb-5697-400a-ade8-ae5273c50826,69431019-3795-489d-8efc-23360e8b5deb,user_81838,2026-06-18T00:05:21.049Z,user,When will I receive the I-20?,/international
+45fac8f8-b112-4ce0-a166-13ad670a2b68,69431019-3795-489d-8efc-23360e8b5deb,user_81838,2026-06-18T00:07:20.282Z,assistant,The I-20 is typically mailed within 2-3 weeks after you submit your enrollment deposit and financial documentation.,/international
+ccf4ec9c-c13f-46a3-ac72-b1f695f463e2,69431019-3795-489d-8efc-23360e8b5deb,user_81838,2026-06-18T00:08:07.991Z,user,Can you also help with housing for international students?,/international
+7db717c1-3f8d-4e33-83a7-280c58dfad89,69431019-3795-489d-8efc-23360e8b5deb,user_81838,2026-06-18T00:11:03.686Z,assistant,Yes! We have an International Student Housing program with early move-in dates and orientation. The International Student Services office also helps with airport pickup.,/international
+69562022-e93c-47d5-a473-9973180eae87,69431019-3795-489d-8efc-23360e8b5deb,user_81838,2026-06-18T00:13:40.109Z,user,That's wonderful. You've been very helpful with all the visa info. Thank you!,/international
+42c6c6ad-a663-4d6a-a0c3-64403f205916,69431019-3795-489d-8efc-23360e8b5deb,user_81838,2026-06-18T00:15:30.340Z,assistant,My pleasure! Welcome to our university community. Feel free to reach out anytime.,/international

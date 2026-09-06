@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+8952d919-ff0f-47e7-b7d3-6d5bbc8db39e,2ba0bd36-70e9-4668-b61f-c5549693a74a,user_86239,2026-06-05T17:51:24.471Z,user,Can you help me figure out which electives to take for the Business Administration major?,/courses
+adc345cf-948a-4f0b-b62d-121f953a621f,2ba0bd36-70e9-4668-b61f-c5549693a74a,user_86239,2026-06-05T17:53:21.214Z,assistant,"Of course! Popular electives include Digital Marketing (BUS 340), Entrepreneurship (BUS 360), Data Analytics for Business (BUS 375), and Negotiation Strategies (BUS 310).",/courses
+03a6f281-5f80-46dd-8735-cb8f3b7f16a1,2ba0bd36-70e9-4668-b61f-c5549693a74a,user_86239,2026-06-05T17:55:30.518Z,user,Which ones are good for someone interested in starting their own business?,/courses
+0f50ed29-d4ab-4da2-bfec-e84f809909c0,2ba0bd36-70e9-4668-b61f-c5549693a74a,user_86239,2026-06-05T17:55:49.514Z,assistant,I'd recommend Entrepreneurship (BUS 360) and Small Business Finance (BUS 355). Both include real-world project components where you develop a business plan.,/courses
+b25e43c0-8161-4ce1-ad69-b5cc7b14a97a,2ba0bd36-70e9-4668-b61f-c5549693a74a,user_86239,2026-06-05T17:56:14.819Z,user,Those sound perfect! Are they offered next semester?,/courses
+9bc09586-fa02-4463-966a-42d36600121d,2ba0bd36-70e9-4668-b61f-c5549693a74a,user_86239,2026-06-05T17:58:56.732Z,assistant,"BUS 360 is offered every semester, and BUS 355 is offered in Spring. Both still have open seats.",/courses
+efc3503a-3f81-4a18-822f-ba9bc0312d5b,2ba0bd36-70e9-4668-b61f-c5549693a74a,user_86239,2026-06-05T18:00:12.962Z,user,"Great recommendations, thanks so much!",/courses
+bfcd829b-a5b4-446a-949d-7037f1db1e59,2ba0bd36-70e9-4668-b61f-c5549693a74a,user_86239,2026-06-05T18:02:10.129Z,assistant,Happy to help! Good luck with your studies.,/courses

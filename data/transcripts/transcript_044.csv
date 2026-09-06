@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+25756448-2c76-42a6-9e3e-396bd65fd07b,75ed8d88-98f1-4080-af70-bc2c328ff7d9,,2026-07-25T18:17:42.792Z,user,The online application form keeps timing out and losing my progress. I've tried 4 times now.,/apply
+c5a6339f-cd57-4f9b-aff2-9877be647920,75ed8d88-98f1-4080-af70-bc2c328ff7d9,,2026-07-25T18:19:54.980Z,assistant,"I'm very sorry about that technical issue. Are you using the latest version of Chrome, Firefox, or Edge?",/apply
+70122ea6-0ee8-4e89-808c-daae4dfe930e,75ed8d88-98f1-4080-af70-bc2c328ff7d9,,2026-07-25T18:22:01.588Z,user,I'm using Safari on my Mac.,/apply
+42dd65c1-a6f4-449f-b82a-1193d00645fd,75ed8d88-98f1-4080-af70-bc2c328ff7d9,,2026-07-25T18:22:38.542Z,assistant,"Safari can sometimes cause issues with our application portal. We recommend using Chrome for the best experience. Also, the application auto-saves every 2 minutes.",/apply
+61f0cfc5-5e8f-493a-bd50-c018982f7fbf,75ed8d88-98f1-4080-af70-bc2c328ff7d9,,2026-07-25T18:24:35.755Z,user,It clearly isn't auto-saving because all my essay responses are gone every time.,/apply
+39b8da3d-c613-4ec0-bd17-97a9fed477c1,75ed8d88-98f1-4080-af70-bc2c328ff7d9,,2026-07-25T18:27:09.545Z,assistant,"I apologize for the frustration. I recommend writing your essays in a separate document first, then pasting them in. I'll also report this Safari compatibility issue to our tech team.",/apply
+f745ae79-db6e-4aa5-9d1b-bc71a3c329b4,75ed8d88-98f1-4080-af70-bc2c328ff7d9,,2026-07-25T18:28:07.427Z,user,I shouldn't have to use workarounds for a university application form. This is 2026.,/apply
+fce67c0c-6136-43b2-855f-dafa83d600e2,75ed8d88-98f1-4080-af70-bc2c328ff7d9,,2026-07-25T18:29:31.511Z,assistant,You're absolutely right. This should work seamlessly on all browsers. I've submitted a high-priority ticket to our development team.,/apply

@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+d57c0e41-73be-4dd1-ac7a-5a6bb3340631,548c3157-8b6d-4213-9498-11266cc4adaa,user_67965,2026-07-12T10:30:07.509Z,user,The health portal won't accept my uploaded immunization records. It keeps saying 'invalid format'.,/support
+c18847bc-2d99-48cc-9550-84b1ce9baec2,548c3157-8b6d-4213-9498-11266cc4adaa,user_67965,2026-07-12T10:32:28.758Z,assistant,"The portal accepts PDF, JPG, and PNG files under 5MB. Could you check the format and size of your file?",/support
+22048ae9-66d0-4cde-88ce-73d16ddcde52,548c3157-8b6d-4213-9498-11266cc4adaa,user_67965,2026-07-12T10:35:05.561Z,user,It's a PDF and only 200KB. Still getting the error.,/support
+3aaa41b9-3b9a-4c98-aaab-db9a91622e71,548c3157-8b6d-4213-9498-11266cc4adaa,user_67965,2026-07-12T10:37:39.940Z,assistant,"I apologize for the technical issue. As a workaround, you can email your records directly to health@university.edu or fax to 555-0199.",/support
+a6693482-747b-4e81-b41a-7ae5cba26d5b,548c3157-8b6d-4213-9498-11266cc4adaa,user_67965,2026-07-12T10:39:06.456Z,user,Why have an upload portal if it doesn't work?,/support
+38f501fa-f1cb-4ab0-b0b9-499a15189990,548c3157-8b6d-4213-9498-11266cc4adaa,user_67965,2026-07-12T10:41:58.664Z,assistant,"That's fair feedback. I'll report this bug to our IT team. In the meantime, the email option should process within 1-2 business days.",/support

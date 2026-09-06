@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+0da006d3-c789-4bae-84b1-4d930a65919b,d564a9aa-1022-46ae-b0e7-0ad980463be3,user_53765,2026-07-29T04:31:38.188Z,user,My financial aid package was way less than expected. Who can I talk to about this?,/financial-aid
+2d6c901a-3d59-4a1b-8d5c-b9f2d19788e8,d564a9aa-1022-46ae-b0e7-0ad980463be3,user_53765,2026-07-29T04:32:22.563Z,assistant,"I'm sorry to hear that. You can submit a Financial Aid Appeal through the Student Portal, or schedule a meeting with a financial aid counselor.",/financial-aid
+f931949c-9585-4746-a507-0247a7cff9d2,d564a9aa-1022-46ae-b0e7-0ad980463be3,user_53765,2026-07-29T04:35:03.969Z,user,I already tried calling the office 3 times and nobody picks up.,/financial-aid
+201f81cf-3013-40d3-b2a5-61129397b594,d564a9aa-1022-46ae-b0e7-0ad980463be3,user_53765,2026-07-29T04:36:51.646Z,assistant,I apologize for the difficulty reaching our office. Wait times have been longer during peak season. You can also email finaid@university.edu for a response within 2 business days.,/financial-aid
+422d8cd4-500c-4c33-bd0b-38b85a44b7de,d564a9aa-1022-46ae-b0e7-0ad980463be3,user_53765,2026-07-29T04:39:34.302Z,user,2 business days when my deposit is due tomorrow? That's not helpful.,/financial-aid
+fa8d749b-71ea-4ee0-b511-edadde47f8de,d564a9aa-1022-46ae-b0e7-0ad980463be3,user_53765,2026-07-29T04:42:20.381Z,assistant,I understand the urgency. Let me connect you with the emergency aid line. You can also request a deposit deadline extension through the Admissions portal.,/financial-aid

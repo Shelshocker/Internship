@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+432050f3-a00b-4a3c-a79c-f58d9849b24b,17d237f2-b629-476d-93a6-fe4837f33a8d,,2026-07-10T17:41:24.771Z,user,I'm trying to register for CHEM 201 but it says I have a hold on my account,/courses
+04211445-ca10-4d32-8f7d-296f5cfbd310,17d237f2-b629-476d-93a6-fe4837f33a8d,,2026-07-10T17:42:42.975Z,assistant,"Account holds can be due to unpaid balances, missing health records, or advising requirements. You can check the specific hold in your Student Portal under 'Account Holds'.",/courses
+8fb51acc-3b7c-4c00-88ae-f487b9e43c42,17d237f2-b629-476d-93a6-fe4837f33a8d,,2026-07-10T17:43:11.528Z,user,It says 'Advising Hold'. But I already met with my advisor last week!,/courses
+1230aacb-4dee-4cdc-b936-146f8512419f,17d237f2-b629-476d-93a6-fe4837f33a8d,,2026-07-10T17:43:31.859Z,assistant,Sometimes advisors need to manually clear the hold after your meeting. Please contact your academic advisor to confirm they released it.,/courses
+e19b9a21-b258-4078-95e1-22fe58c55750,17d237f2-b629-476d-93a6-fe4837f33a8d,,2026-07-10T17:45:33.072Z,user,This is so annoying. Registration closes in 2 hours and my advisor isn't responding to emails.,/courses
+fa72281e-f7ed-455a-b95c-d903717ffd19,17d237f2-b629-476d-93a6-fe4837f33a8d,,2026-07-10T17:47:21.788Z,assistant,I understand the urgency. You can also contact the Registrar's office directly at 555-0142. They can help with emergency hold removals during registration periods.,/courses
+1e0bade4-f533-418a-98d3-6c0b60a09d8e,17d237f2-b629-476d-93a6-fe4837f33a8d,,2026-07-10T17:49:07.864Z,user,Fine I'll call them. This whole registration system is a nightmare.,/courses
+06674705-3a88-493f-9752-1abdc2b7fe36,17d237f2-b629-476d-93a6-fe4837f33a8d,,2026-07-10T17:50:14.837Z,assistant,I'm sorry for the frustration. I've noted this feedback about the hold removal process.,/courses

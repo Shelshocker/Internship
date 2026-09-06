@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+ce774f33-2679-4632-a7f7-d79c4d052757,8ae5187e-ab2b-40c1-acfa-a366812537f8,user_97397,2026-07-30T22:16:03.082Z,user,I clicked on the housing application link in my acceptance email and it goes to a 404 page,/support
+34264d1a-cf35-4174-aab5-167ce54cf4ba,8ae5187e-ab2b-40c1-acfa-a366812537f8,user_97397,2026-07-30T22:16:28.667Z,assistant,I apologize for the broken link. The housing portal recently moved. The correct URL is university.edu/housing/apply.,/support
+3c1386e9-6c2a-427a-9305-b942652abb03,8ae5187e-ab2b-40c1-acfa-a366812537f8,user_97397,2026-07-30T22:17:02.175Z,user,How long has this been broken? I bet other students are having the same issue.,/support
+84981ded-49d7-4a41-b72b-375fbce00dcd,8ae5187e-ab2b-40c1-acfa-a366812537f8,user_97397,2026-07-30T22:19:31.835Z,assistant,Thank you for reporting this. I'll escalate it to our web team immediately to get the link updated in the acceptance email template.,/support
+78bffd0a-9aac-41c0-86a7-5f1cbe795c1e,8ae5187e-ab2b-40c1-acfa-a366812537f8,user_97397,2026-07-30T22:21:32.052Z,user,ok. The new link works at least. When is the housing deposit deadline?,/support
+7ae78c57-e574-440d-8ffe-9afb278cb771,8ae5187e-ab2b-40c1-acfa-a366812537f8,user_97397,2026-07-30T22:22:31.008Z,assistant,The housing deposit of $200 is due by May 1st. Room selection begins May 15th based on deposit date.,/support

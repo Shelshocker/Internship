@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+f92710d6-069f-4923-9202-7440cf282f40,86a38605-0efe-446f-b201-4d945bd06b37,user_50456,2026-05-09T23:34:42.786Z,user,What clubs and organizations does the university have?,/support
+e583ca7e-a5f2-4760-9e90-a3b04720a5c4,86a38605-0efe-446f-b201-4d945bd06b37,user_50456,2026-05-09T23:37:26.155Z,assistant,"We have over 150 registered student organizations! Categories include academic honor societies, cultural organizations, sports clubs, performing arts, community service, and special interest groups.",/support
+29f06207-129e-43bb-bb6a-a729093b5f5b,86a38605-0efe-446f-b201-4d945bd06b37,user_50456,2026-05-09T23:40:25.283Z,user,Are there any coding or tech clubs?,/support
+88e481e0-1e03-480c-9ad6-44a0595fe87e,86a38605-0efe-446f-b201-4d945bd06b37,user_50456,2026-05-09T23:41:07.619Z,assistant,"Yes! We have the Computer Science Club, Hackathon Society, Women in Tech, AI/ML Research Group, and a Game Development Club. All welcome members of any skill level.",/support
+3a0d81dc-6a6b-4161-9847-2e6d0ef8b9fe,86a38605-0efe-446f-b201-4d945bd06b37,user_50456,2026-05-09T23:42:36.968Z,user,"Awesome, how do I join?",/support
+171b435e-9d27-4382-94c2-c610d74cc881,86a38605-0efe-446f-b201-4d945bd06b37,user_50456,2026-05-09T23:43:59.944Z,assistant,Visit the Student Involvement Fair during Welcome Week (August 25-27) or browse and join clubs through the CampusConnect app.,/support
+bf16c89e-3920-4f7d-b92c-9a90d923a2c8,86a38605-0efe-446f-b201-4d945bd06b37,user_50456,2026-05-09T23:44:32.622Z,user,That's great info! Really looking forward to getting involved.,/support
+3e18ba52-4b33-435e-bd83-af2cd6a7f069,86a38605-0efe-446f-b201-4d945bd06b37,user_50456,2026-05-09T23:46:30.922Z,assistant,That's wonderful to hear! Getting involved on campus is one of the best parts of the college experience.,/support

@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+04a30bc1-d88c-4f4b-88a3-6994a5785bce,6c97cc43-a363-4919-9286-6e014bd80c62,,2026-06-10T20:08:31.878Z,user,What's the acceptance rate this year?,/admissions
+6527cfda-80f8-43b5-b225-ecbb579a3ba3,6c97cc43-a363-4919-9286-6e014bd80c62,,2026-06-10T20:09:58.961Z,assistant,"Our current acceptance rate is approximately 62%. We use a holistic admissions process that considers academics, extracurriculars, and personal qualities.",/admissions
+d5dfe554-8ccd-4513-9ac9-c49d065e945f,6c97cc43-a363-4919-9286-6e014bd80c62,,2026-06-10T20:10:43.440Z,user,"Nice, that's encouraging. What GPA do most accepted students have?",/admissions
+67213dc5-0034-49e6-bc1f-3d9308872eec,6c97cc43-a363-4919-9286-6e014bd80c62,,2026-06-10T20:12:59.138Z,assistant,"The middle 50% of our admitted students have a GPA between 3.4 and 3.9. However, we consider the full application context.",/admissions
+8431f3ee-9d2b-44f2-b1fe-ccf46227dc13,6c97cc43-a363-4919-9286-6e014bd80c62,,2026-06-10T20:15:25.028Z,user,"Awesome, thank you for the info!",/admissions
+35c53814-f73a-4c8a-8a6e-97d6f4b0c3d5,6c97cc43-a363-4919-9286-6e014bd80c62,,2026-06-10T20:18:05.318Z,assistant,You're welcome! Good luck!,/admissions

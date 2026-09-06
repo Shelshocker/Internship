@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+a40f370e-774d-4221-9da6-54b0667a8958,b8b9c395-ae72-48a2-9f87-de2d4734e9bf,,2026-06-08T23:14:17.604Z,user,I can't log into the student portal. It keeps saying invalid credentials.,/student-portal
+ec31dba3-ce87-4b51-bc55-c09c232ba999,b8b9c395-ae72-48a2-9f87-de2d4734e9bf,,2026-06-08T23:14:37.865Z,assistant,I'm sorry to hear that. Have you tried resetting your password through the 'Forgot Password' link?,/student-portal
+3c4f60fd-0820-4683-878b-c3d5fb2c064b,b8b9c395-ae72-48a2-9f87-de2d4734e9bf,,2026-06-08T23:17:12.323Z,user,Yes I did that and the reset email never came. I've been waiting 30 minutes.,/student-portal
+b16e5466-a844-4011-b52a-742126007181,b8b9c395-ae72-48a2-9f87-de2d4734e9bf,,2026-06-08T23:19:08.567Z,assistant,"Please check your spam/junk folder. If it's not there, the email system may be experiencing delays. You can also try the secondary reset option using your student ID and date of birth.",/student-portal
+426f1a56-d318-4cc3-9627-6fbdb9d520c7,b8b9c395-ae72-48a2-9f87-de2d4734e9bf,,2026-06-08T23:20:36.777Z,user,There's no secondary reset option on the page. Are you making things up?,/student-portal
+46d5594d-c26c-40aa-a6aa-a0c3e8aba482,b8b9c395-ae72-48a2-9f87-de2d4734e9bf,,2026-06-08T23:22:27.096Z,assistant,"I apologize for the incorrect information. For immediate assistance with login issues, please contact the IT Help Desk at helpdesk@university.edu or call 555-0188.",/student-portal
+0da8e064-2dd5-478c-ac41-677cbcc4a4a0,b8b9c395-ae72-48a2-9f87-de2d4734e9bf,,2026-06-08T23:23:47.941Z,user,I need access TODAY to register for classes. This is unacceptable.,/student-portal
+430e11c6-98f2-4e72-9fee-86bf2b9238ad,b8b9c395-ae72-48a2-9f87-de2d4734e9bf,,2026-06-08T23:26:25.874Z,assistant,"I understand the urgency. The IT Help Desk has walk-in hours Monday-Friday 8am-5pm in the Library Building, Room 102. They can reset your credentials on the spot.",/student-portal

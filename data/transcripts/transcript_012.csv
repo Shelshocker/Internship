@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+9d265463-a1d1-47bd-a61a-2143e1164c6a,6ce5d48c-6b90-4adb-b93a-78bf31bb657c,user_97205,2026-05-27T05:06:21.767Z,user,I applied 6 weeks ago and still haven't heard anything. This is ridiculous.,/admissions
+2edd7a6b-37a9-446a-88db-8eb739c049b6,6ce5d48c-6b90-4adb-b93a-78bf31bb657c,user_97205,2026-05-27T05:06:59.142Z,assistant,I understand your frustration. Typical processing time is 4-6 weeks. Let me look into your application status. Could you share your application ID?,/admissions
+cfee6c5b-20a7-4f5a-98db-81f79b613eda,6ce5d48c-6b90-4adb-b93a-78bf31bb657c,user_97205,2026-05-27T05:09:04.919Z,user,It's APP-29381. I've been checking the portal every day and it still says 'Under Review'.,/admissions
+03b0ab78-b690-4cf9-bb5f-5f128cea4f90,6ce5d48c-6b90-4adb-b93a-78bf31bb657c,user_97205,2026-05-27T05:09:43.088Z,assistant,I see your application. It appears we're still waiting for your official SAT scores to arrive from College Board.,/admissions
+00f3cd01-4e94-46c9-8f17-55010a0c0b85,6ce5d48c-6b90-4adb-b93a-78bf31bb657c,user_97205,2026-05-27T05:10:15.622Z,user,I sent those weeks ago! This is really frustrating. I've been accepted to two other schools already.,/admissions
+b52e7748-121a-4468-b441-72d696c846e5,6ce5d48c-6b90-4adb-b93a-78bf31bb657c,user_97205,2026-05-27T05:10:46.385Z,assistant,I completely understand. Sometimes electronic scores take 3-5 business days. I'll flag your application for priority review once the scores arrive.,/admissions
+ea972a0c-8534-491b-8427-85823877d3e5,6ce5d48c-6b90-4adb-b93a-78bf31bb657c,user_97205,2026-05-27T05:11:16.895Z,user,Fine. But if I don't hear back by next week I'm withdrawing my application.,/admissions
+68ce5a6c-db64-4af1-955f-83b9d5205be3,6ce5d48c-6b90-4adb-b93a-78bf31bb657c,user_97205,2026-05-27T05:11:44.052Z,assistant,I've escalated this to our admissions team. You should receive an update within 3 business days.,/admissions

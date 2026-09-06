@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+c8b52668-8537-4532-a9a0-a8cbc884e944,79924af2-70b9-41f2-87d8-5a7ec91879b6,,2026-05-14T01:29:07.391Z,user,I just got my acceptance letter! I'm so excited!,/admissions
+d85a8708-fe3b-4b18-98ec-36e86bfc3ba6,79924af2-70b9-41f2-87d8-5a7ec91879b6,,2026-05-14T01:30:06.901Z,assistant,Congratulations!! 🎉 We're thrilled to have you join our community! Your next steps are to submit your enrollment deposit by May 1st.,/admissions
+fa0e78c3-dc9a-44d8-84bc-8c9e7dd41b70,79924af2-70b9-41f2-87d8-5a7ec91879b6,,2026-05-14T01:32:55.032Z,user,Already submitted it! When is orientation?,/admissions
+ef5b7261-41b3-4615-9c9d-a8513b3935de,79924af2-70b9-41f2-87d8-5a7ec91879b6,,2026-05-14T01:35:17.736Z,assistant,New Student Orientation has multiple sessions from June 15 to August 1. You can register for your preferred date through the New Student portal.,/admissions
+05348e55-1d72-4ebd-8f18-ffde6f71a270,79924af2-70b9-41f2-87d8-5a7ec91879b6,,2026-05-14T01:38:09.824Z,user,Can my parents come too?,/admissions
+a5e44799-ecac-48f3-9486-8ec1e901682e,79924af2-70b9-41f2-87d8-5a7ec91879b6,,2026-05-14T01:40:20.931Z,assistant,Absolutely! We have a concurrent Family Orientation program. Parents/guardians attend separate sessions while you register for classes and connect with fellow students.,/admissions
+d6df91aa-dc74-46e6-acee-01130410cce3,79924af2-70b9-41f2-87d8-5a7ec91879b6,,2026-05-14T01:42:04.158Z,user,This is so well organized. Thank you!,/admissions
+507e9701-2bd3-4300-8a37-b15483e96fd6,79924af2-70b9-41f2-87d8-5a7ec91879b6,,2026-05-14T01:44:33.738Z,assistant,We're so happy you're joining us! See you at orientation! 🎓,/admissions

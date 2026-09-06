@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+0e741b80-6593-45a9-92b3-9b7cf0e05cde,fc752c04-9aee-4503-86fd-d7d303250562,user_88654,2026-06-06T18:43:20.194Z,user,Does the career center help with resume reviews?,/career-services
+3c48f47c-f044-4b5d-9b07-c62b8c17ecd8,fc752c04-9aee-4503-86fd-d7d303250562,user_88654,2026-06-06T18:46:03.615Z,assistant,"Yes! We offer drop-in resume reviews every Tuesday and Thursday from 1-4pm, or you can schedule a one-on-one appointment with a career counselor.",/career-services
+6f9e7061-610c-4ab3-94f0-d4c84b627484,fc752c04-9aee-4503-86fd-d7d303250562,user_88654,2026-06-06T18:47:26.457Z,user,I'm graduating in December and starting my job search. Any resources for that?,/career-services
+b379a00d-d8f9-469f-a33a-131f2e1f9eec,fc752c04-9aee-4503-86fd-d7d303250562,user_88654,2026-06-06T18:49:27.462Z,assistant,"We have several resources: our job board (Handshake), career fairs each semester, mock interview sessions, LinkedIn profile reviews, and alumni networking events.",/career-services
+8d1e5cb7-f7b4-49f5-998e-f5ed2c4fca2b,fc752c04-9aee-4503-86fd-d7d303250562,user_88654,2026-06-06T18:50:40.596Z,user,When is the next career fair?,/career-services
+1957a4b2-0749-4c98-8f3e-9e1469e03460,fc752c04-9aee-4503-86fd-d7d303250562,user_88654,2026-06-06T18:51:00.417Z,assistant,The Fall Career Fair is September 28th in the Student Center. Over 120 employers are registered. Pre-register on Handshake to get your resume in front of recruiters beforehand.,/career-services
+7ac0f1bd-176f-4ba8-9f0a-64c22f54f442,fc752c04-9aee-4503-86fd-d7d303250562,user_88654,2026-06-06T18:52:21.659Z,user,"That's amazing, I had no idea there were so many resources. Thank you!",/career-services
+4f52ef54-7aa7-41cb-800c-1f8ea67f2f72,fc752c04-9aee-4503-86fd-d7d303250562,user_88654,2026-06-06T18:55:17.215Z,assistant,We're here to help you succeed! Good luck with your job search.,/career-services

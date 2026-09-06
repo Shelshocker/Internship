@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+a40c38f6-5cdd-42a3-8ae3-308e14685083,d7213b29-6899-4f0e-a90c-5011579e563f,,2026-07-05T09:44:08.592Z,user,I just submitted my application! How long until I hear back?,/apply
+bc0b9dc7-2fd0-4177-9e5d-325ee9bd2fda,d7213b29-6899-4f0e-a90c-5011579e563f,,2026-07-05T09:45:58.474Z,assistant,Congratulations on submitting! You'll receive a confirmation email within 24 hours. Admission decisions are typically sent within 4-6 weeks.,/apply
+33c31014-d9dc-4cca-8913-a470574f622a,d7213b29-6899-4f0e-a90c-5011579e563f,,2026-07-05T09:46:50.517Z,user,Is there anything else I need to do?,/apply
+4c2e3f9f-7f91-4789-9e48-6cb8f4ec83ac,d7213b29-6899-4f0e-a90c-5011579e563f,,2026-07-05T09:47:41.637Z,assistant,"Make sure to: 1) Send official transcripts, 2) Submit SAT/ACT scores if not already sent, 3) Check your applicant portal regularly for any requested documents.",/apply
+fcec61b2-b248-4191-8deb-28201894f8dd,d7213b29-6899-4f0e-a90c-5011579e563f,,2026-07-05T09:50:28.393Z,user,All done already! The application process was actually really smooth.,/apply
+7c49d638-b9f1-4e2e-80c2-7cea43678975,d7213b29-6899-4f0e-a90c-5011579e563f,,2026-07-05T09:53:27.662Z,assistant,Wonderful! We're glad to hear that. We'll be in touch soon. Good luck!,/apply

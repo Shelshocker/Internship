@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+1d9b4491-6555-426d-b1b3-61ec028afcf4,90dcda7d-cea3-42c6-9474-51aeadbaaf32,user_47091,2026-06-30T09:37:33.123Z,user,Does the library have study rooms I can reserve?,/library
+edbd4a27-8ab9-446c-8487-b78ed7d2d80d,90dcda7d-cea3-42c6-9474-51aeadbaaf32,user_47091,2026-06-30T09:38:35.176Z,assistant,Yes! We have 20 group study rooms and 10 individual quiet rooms. You can reserve them online through the Library portal for up to 3 hours at a time.,/library
+300cc1a7-bc2a-47dd-9e4b-a30b54ab3794,90dcda7d-cea3-42c6-9474-51aeadbaaf32,user_47091,2026-06-30T09:39:39.029Z,user,Can I reserve one for a group project meeting this Saturday?,/library
+9942e6cf-2a19-45ea-b3ad-8b85cb6d8802,90dcda7d-cea3-42c6-9474-51aeadbaaf32,user_47091,2026-06-30T09:40:10.429Z,assistant,Absolutely! Saturday hours are 9am-8pm. Group rooms fit 4-8 people and include a whiteboard and display screen.,/library
+b1723a8e-8459-46d4-baff-85b092b722c7,90dcda7d-cea3-42c6-9474-51aeadbaaf32,user_47091,2026-06-30T09:43:01.473Z,user,That's perfect for our presentation prep. Thanks!,/library
+ab5fdc86-2fad-4b81-9b3f-c768175913e3,90dcda7d-cea3-42c6-9474-51aeadbaaf32,user_47091,2026-06-30T09:44:03.750Z,assistant,You're welcome! The reservation system is at library.university.edu/rooms.,/library

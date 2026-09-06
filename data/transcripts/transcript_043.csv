@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+1e1300cf-6f69-4231-901f-5ef129295d20,8a5117a5-7f3f-433e-8de1-cc805a2e5aae,user_77406,2026-07-22T21:23:50.028Z,user,"Can someone explain why the tuition page shows $12,500 but my bill says $14,200?",/tuition
+05733279-2703-4032-85ea-65b62d218d05,8a5117a5-7f3f-433e-8de1-cc805a2e5aae,user_77406,2026-07-22T21:25:19.728Z,assistant,"The $12,500 figure is base tuition only. Your bill may include additional fees such as the technology fee ($350), student activity fee ($200), and lab fees.",/tuition
+2130e304-3a0b-4713-83a0-3d8bf7681779,8a5117a5-7f3f-433e-8de1-cc805a2e5aae,user_77406,2026-07-22T21:25:41.473Z,user,Why aren't those listed on the main tuition page? That's super misleading.,/tuition
+5b8a118c-eb44-4903-8775-a01a06486f06,8a5117a5-7f3f-433e-8de1-cc805a2e5aae,user_77406,2026-07-22T21:26:30.218Z,assistant,I apologize for the confusion. The detailed fee breakdown is available on the Bursar's page. I understand this should be more transparent.,/tuition
+3cb2afb3-c20b-4a0a-be98-989fe726f185,8a5117a5-7f3f-433e-8de1-cc805a2e5aae,user_77406,2026-07-22T21:28:34.272Z,user,Yeah that's pretty deceptive honestly. Parents are making decisions based on that tuition page number.,/tuition
+d3804533-d142-4337-90d0-66115ce9c384,8a5117a5-7f3f-433e-8de1-cc805a2e5aae,user_77406,2026-07-22T21:28:58.410Z,assistant,"Your feedback is noted and I'll pass it along to our web team. In the meantime, you can view the complete cost of attendance at the Financial Aid calculator page.",/tuition

@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+7afe9371-7a62-4d52-bd17-138c372f81d8,7d7cb95b-be92-4487-ab3e-e4ecc88d3ad2,user_63552,2026-07-06T05:45:21.812Z,user,I got a scholarship from an outside organization. How do I report it?,/financial-aid
+710ccfe8-6137-423b-9c81-7a84f9c07b8c,7d7cb95b-be92-4487-ab3e-e4ecc88d3ad2,user_63552,2026-07-06T05:45:56.628Z,assistant,Congratulations! You can report outside scholarships through the Financial Aid portal under 'Report Outside Aid'. This is required by federal regulations.,/financial-aid
+6a998edf-2934-45e1-87c2-7dcf7ef9e2dd,7d7cb95b-be92-4487-ab3e-e4ecc88d3ad2,user_63552,2026-07-06T05:48:31.421Z,user,"Wait, will it reduce my institutional aid?",/financial-aid
+76bf5313-753e-4fd7-a425-e1ee1ebdec53,7d7cb95b-be92-4487-ab3e-e4ecc88d3ad2,user_63552,2026-07-06T05:50:12.102Z,assistant,"Outside scholarships may reduce need-based institutional grants if your total aid exceeds your cost of attendance. However, loans are typically reduced first.",/financial-aid
+a3d6e48d-a90a-402c-bfa1-5775f29c4090,7d7cb95b-be92-4487-ab3e-e4ecc88d3ad2,user_63552,2026-07-06T05:51:51.037Z,user,That seems unfair but I guess I get why. Thanks for explaining.,/financial-aid
+5291c60d-54aa-4388-8017-654d0b18cbdc,7d7cb95b-be92-4487-ab3e-e4ecc88d3ad2,user_63552,2026-07-06T05:52:25.272Z,assistant,I understand the concern. Our counselors can walk you through exactly how it would affect your package if you'd like to schedule a meeting.,/financial-aid

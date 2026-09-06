@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+bf3056fc-052d-4f12-9c37-eda33dbee088,61079210-098b-4676-b70e-b173c99e4aa2,user_89637,2026-07-31T05:04:18.556Z,user,I was told all my credits would transfer during the campus visit but now admissions says only 45 out of 60 will count,/transfer
+9874f624-bfe9-4800-922e-588b7266cd8a,61079210-098b-4676-b70e-b173c99e4aa2,user_89637,2026-07-31T05:06:31.841Z,assistant,"I'm sorry to hear about this discrepancy. The campus visit advisors provide general guidance, while official transfer evaluations are done by the Registrar after reviewing your transcripts.",/transfer
+dd178444-cf64-431a-ba74-58a44faa14eb,61079210-098b-4676-b70e-b173c99e4aa2,user_89637,2026-07-31T05:08:06.841Z,user,That's misleading. I chose this school partly because they said all my credits would transfer.,/transfer
+66e29048-e14c-4577-b16e-cfa0290f1712,61079210-098b-4676-b70e-b173c99e4aa2,user_89637,2026-07-31T05:08:37.130Z,assistant,I completely understand your frustration. You can appeal individual credit transfer decisions by providing course syllabi to the relevant department chairs.,/transfer
+c3431652-b4d3-4245-992c-758f6ff151f4,61079210-098b-4676-b70e-b173c99e4aa2,user_89637,2026-07-31T05:08:59.323Z,user,How long does the appeal take?,/transfer
+bea8ece4-dbc6-4e2a-9144-30da55dc2957,61079210-098b-4676-b70e-b173c99e4aa2,user_89637,2026-07-31T05:11:07.190Z,assistant,Appeals are typically reviewed within 2-3 weeks. I recommend submitting them as soon as possible before the semester starts.,/transfer

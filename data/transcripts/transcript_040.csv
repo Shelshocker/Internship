@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+33566519-794f-41d2-9263-a81c9596eb18,41d4ea1f-81cb-40ba-91cd-b12ab503c45e,user_21731,2026-07-19T06:24:38.770Z,user,I've been trying to reach the registrar's office for 3 days. Nobody answers the phone.,/contact
+2e9f7ef9-7b68-4d1c-bba8-0b3e80e1a031,41d4ea1f-81cb-40ba-91cd-b12ab503c45e,user_21731,2026-07-19T06:26:34.065Z,assistant,I'm sorry about that. The Registrar's office is experiencing high call volumes. You can submit a request through the online ticketing system at registrar.university.edu/help.,/contact
+7d6c59c5-edc5-4291-ab10-f2de86af88b9,41d4ea1f-81cb-40ba-91cd-b12ab503c45e,user_21731,2026-07-19T06:26:58.611Z,user,I need my enrollment verification letter for my employer ASAP. I can't wait for a ticket.,/contact
+04407508-22c0-46f3-ad20-5fca501c5958,41d4ea1f-81cb-40ba-91cd-b12ab503c45e,user_21731,2026-07-19T06:29:19.440Z,assistant,Enrollment verification letters can actually be requested instantly through the National Student Clearinghouse at studentclearinghouse.org. It's the fastest option.,/contact
+705dab16-ecf8-4116-9492-6c07de8d07be,41d4ea1f-81cb-40ba-91cd-b12ab503c45e,user_21731,2026-07-19T06:31:06.590Z,user,Oh I didn't know that. Why doesn't the website mention this?,/contact
+caab4ff6-8c36-4cd3-ad52-1b54bb5278f4,41d4ea1f-81cb-40ba-91cd-b12ab503c45e,user_21731,2026-07-19T06:32:55.952Z,assistant,That's a great point. I'll suggest adding this information to our Registrar FAQ page. Thank you for the feedback.,/contact

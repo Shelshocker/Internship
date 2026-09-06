@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+5398058d-a360-4cc4-8532-46ff2b753c97,cc284df2-4a2d-419e-b9c6-c4fb315c1282,,2026-08-02T13:49:28.637Z,user,what's the difference between in-state and out-of-state tuition?,/tuition
+96898427-f500-48e7-8f14-ce95ccdcca16,cc284df2-4a2d-419e-b9c6-c4fb315c1282,,2026-08-02T13:50:12.711Z,assistant,"In-state tuition is $12,500 per year, while out-of-state is $24,000. You may qualify for in-state rates after living in the state for 12 months.",/tuition
+3acdab5c-a79a-4aca-95e8-faa155f7b870,cc284df2-4a2d-419e-b9c6-c4fb315c1282,,2026-08-02T13:50:30.186Z,user,that's a huge difference. is there any way to get in-state sooner?,/tuition
+138fe9d3-bded-41ca-ad9d-51652e344b21,cc284df2-4a2d-419e-b9c6-c4fb315c1282,,2026-08-02T13:53:10.621Z,assistant,Students who work at least 20 hours per week in-state can apply for early residency reclassification after 6 months.,/tuition
+af267515-b997-4e8b-b690-c92af9297404,cc284df2-4a2d-419e-b9c6-c4fb315c1282,,2026-08-02T13:55:53.752Z,user,"ok thats useful info at least, thanks",/tuition
+35f37357-0daf-438f-893a-1668d4cc011d,cc284df2-4a2d-419e-b9c6-c4fb315c1282,,2026-08-02T13:56:44.921Z,assistant,You're welcome! Visit the Registrar's office for residency reclassification forms.,/tuition

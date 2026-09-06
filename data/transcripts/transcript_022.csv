@@ -1,0 +1,5 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+37f46110-8cb6-4fe4-8a36-5a0d936eb6a7,6ac1c45f-87b3-430d-bb76-111fbd88188a,user_81896,2026-06-08T16:53:19.865Z,user,Do you require SAT/ACT scores?,/admissions
+636440ea-19f7-49e6-a46b-ce2d250d8974,6ac1c45f-87b3-430d-bb76-111fbd88188a,user_81896,2026-06-08T16:56:08.403Z,assistant,"We are test-optional for the 2026-2027 admissions cycle. You may submit scores if you feel they strengthen your application, but they are not required.",/admissions
+f7c5b15d-0d69-4257-b899-9ba3bef6f8fe,6ac1c45f-87b3-430d-bb76-111fbd88188a,user_81896,2026-06-08T16:58:48.847Z,user,"If I submit them, will low scores hurt me?",/admissions
+ed82f757-fdfc-4a7e-b688-10339a6c1585,6ac1c45f-87b3-430d-bb76-111fbd88188a,user_81896,2026-06-08T16:59:59.432Z,assistant,"If you submit scores, they will be considered as one factor among many. If you feel your scores don't reflect your abilities, you may choose not to submit them.",/admissions

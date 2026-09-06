@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+805b83bb-4499-4531-8fa0-eccbb0886e07,56e5f223-9598-4f13-84bd-4d80c194466e,,2026-06-07T14:11:40.055Z,user,Can I bring my car to campus as a freshman?,/housing
+9e2c6910-3ef9-4dc6-8622-3de3a045fa25,56e5f223-9598-4f13-84bd-4d80c194466e,,2026-06-07T14:13:20.707Z,assistant,"Freshmen can purchase a parking permit for $450/semester. However, availability is limited and permits are assigned by lottery.",/housing
+674c4346-fc30-4e05-b216-f6291ae705c0,56e5f223-9598-4f13-84bd-4d80c194466e,,2026-06-07T14:15:44.515Z,user,$450 per semester?! That's insane. Is there free parking anywhere?,/housing
+93c551e4-a14c-4ea4-80ec-a9162a24d7dd,56e5f223-9598-4f13-84bd-4d80c194466e,,2026-06-07T14:18:04.613Z,assistant,There is a free park-and-ride lot about 1 mile from campus with a shuttle that runs every 15 minutes during the academic year.,/housing
+cdb3699f-8816-4bd1-9208-4a0464d29b46,56e5f223-9598-4f13-84bd-4d80c194466e,,2026-06-07T14:19:57.097Z,user,The shuttle is better than nothing I guess. What are the hours?,/housing
+799cb260-32f6-451f-a0c3-a26a3ab81346,56e5f223-9598-4f13-84bd-4d80c194466e,,2026-06-07T14:20:50.379Z,assistant,The shuttle runs Monday-Friday 7am-10pm and Saturday 9am-6pm. It does not run on Sundays or university holidays.,/housing

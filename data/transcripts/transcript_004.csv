@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+5d1f9a2b-4e0a-4b3b-9f05-d77fe0be64d6,d943700c-5297-4b4e-83a7-1b67d86fd867,,2026-05-13T05:30:33.439Z,user,I got a parking ticket on campus but I have a valid permit. How do I appeal?,/support
+1fe0ff9d-b30a-4b7c-ac4c-05872251d266,d943700c-5297-4b4e-83a7-1b67d86fd867,,2026-05-13T05:30:49.343Z,assistant,You can appeal parking tickets online through the Parking Services portal within 14 days of the ticket date. Upload a photo of your valid permit as evidence.,/support
+3b8668a0-f01d-4ba4-8f4c-60cc980c222f,d943700c-5297-4b4e-83a7-1b67d86fd867,,2026-05-13T05:33:44.270Z,user,Where is the parking services portal? I can't find it.,/support
+12aca4e8-aef4-4b60-9ccf-4914e5188e9d,d943700c-5297-4b4e-83a7-1b67d86fd867,,2026-05-13T05:36:39.736Z,assistant,Go to university.edu/parking and click 'Citation Appeal'. You'll need your ticket number and student ID.,/support
+1e878bac-4a2b-4ec3-88e0-dddf4cccb127,d943700c-5297-4b4e-83a7-1b67d86fd867,,2026-05-13T05:39:13.309Z,user,Found it. Thanks. This should be easier to find on the main site though.,/support
+1d8b7930-7b47-48f6-90f0-32d5dc1e12af,d943700c-5297-4b4e-83a7-1b67d86fd867,,2026-05-13T05:41:31.793Z,assistant,"Agreed, and thank you for the feedback. Good luck with your appeal!",/support

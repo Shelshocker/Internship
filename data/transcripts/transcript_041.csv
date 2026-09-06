@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+27344589-a639-411e-b7a9-cbfadfac4f91,473050fd-b0b8-49e6-ad27-da92361d4598,user_69454,2026-07-21T00:33:29.319Z,user,Every section of ENG 101 is full. I NEED this class to graduate on time.,/courses
+85f06b3a-3c6c-4743-98fe-6ce1374d9832,473050fd-b0b8-49e6-ad27-da92361d4598,user_69454,2026-07-21T00:34:02.122Z,assistant,"I understand the urgency. You can: 1) Join the waitlist for your preferred section, 2) Check for newly added sections during the first week, or 3) Contact the English department about a capacity override.",/courses
+e8c90fc3-56b0-4812-8bda-a53f2dc3412e,473050fd-b0b8-49e6-ad27-da92361d4598,user_69454,2026-07-21T00:35:04.843Z,user,There's no waitlist option showing up for me.,/courses
+248bf938-fbe5-4aa9-96cb-0fc71798ec1e,473050fd-b0b8-49e6-ad27-da92361d4598,user_69454,2026-07-21T00:36:31.648Z,assistant,"The waitlist feature is only available during the registration period. If the period has closed, you'll need to contact the English department directly for an override.",/courses
+4e7dc453-ee5b-4e9d-857e-da0ec4ce0bfd,473050fd-b0b8-49e6-ad27-da92361d4598,user_69454,2026-07-21T00:37:32.517Z,user,What's their contact info? I can't find a directory anywhere on this site.,/courses
+6885a1c9-6384-4ea3-ac07-25c31300d13e,473050fd-b0b8-49e6-ad27-da92361d4598,user_69454,2026-07-21T00:38:48.565Z,assistant,"The English department can be reached at english@university.edu or 555-0167. Office hours are Monday-Friday, 9am-4pm in Humanities Building, Room 305.",/courses

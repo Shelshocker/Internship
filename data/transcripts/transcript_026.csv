@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+43f06a83-8b86-4340-92a2-86ae3909abf5,5a1ca852-00c3-4290-8904-e7ccc4b34510,,2026-06-14T02:57:18.466Z,user,Where is the financial aid office located? The website says Miller Hall but there's no building called that on the campus map.,/contact
+1a0d2df3-7db7-420d-8cc8-0f195addd83e,5a1ca852-00c3-4290-8904-e7ccc4b34510,,2026-06-14T02:58:30.584Z,assistant,I apologize for the outdated information. Miller Hall was renamed to Student Services Building last year. It's located at the intersection of University Ave and 3rd Street.,/contact
+c7a6562d-aa87-4d4d-9da3-27baadc4d253,5a1ca852-00c3-4290-8904-e7ccc4b34510,,2026-06-14T02:59:50.533Z,user,That's confusing. The whole website has outdated building names.,/contact
+b5ed596a-1dc8-483e-bfbd-7fad435f141f,5a1ca852-00c3-4290-8904-e7ccc4b34510,,2026-06-14T03:00:38.015Z,assistant,"You're right, and we appreciate the feedback. The web team is currently updating all campus location references.",/contact
+ce22a2ab-5d95-4ac9-b198-9c9d7a60d7cf,5a1ca852-00c3-4290-8904-e7ccc4b34510,,2026-06-14T03:00:57.980Z,user,Well at least you're aware of it. Thanks for the directions.,/contact
+4588187f-fabb-4df3-bef2-70682122213a,5a1ca852-00c3-4290-8904-e7ccc4b34510,,2026-06-14T03:01:32.293Z,assistant,"Thank you for your patience! The office is open Monday-Friday, 8:30am-4:30pm.",/contact

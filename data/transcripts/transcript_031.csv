@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+a9bbf5fa-2dae-45be-947d-51db5ad2ebb1,a14abe5d-e240-4f94-b5c0-5e2501821f74,,2026-07-02T16:26:54.799Z,user,What meal plan options are available for freshmen?,/support
+7bb404c1-fd86-405a-a478-4d2ed38a4278,a14abe5d-e240-4f94-b5c0-5e2501821f74,,2026-07-02T16:28:46.259Z,assistant,"Freshmen can choose from: Unlimited Plan ($2,400/semester), 14 meals/week ($2,100), or 10 meals/week ($1,800). All plans include $100 in dining dollars for campus cafes.",/support
+529494dd-862e-42fd-ac9f-189b0fd54ce2,a14abe5d-e240-4f94-b5c0-5e2501821f74,,2026-07-02T16:30:37.374Z,user,Can I change my meal plan after the semester starts?,/support
+e16a8389-6fde-46c5-a8cf-b75b41b2d17b,a14abe5d-e240-4f94-b5c0-5e2501821f74,,2026-07-02T16:31:22.895Z,assistant,You can change your meal plan within the first two weeks of the semester through the Dining Services portal at no charge.,/support
+552a7390-8640-4463-ac84-d218cb4c0ec7,a14abe5d-e240-4f94-b5c0-5e2501821f74,,2026-07-02T16:32:17.344Z,user,Good to know. Are there options for students with dietary restrictions?,/support
+bede6a27-7e1f-4889-b5ed-c29f782b5b91,a14abe5d-e240-4f94-b5c0-5e2501821f74,,2026-07-02T16:34:05.380Z,assistant,"Yes! All dining halls have vegetarian, vegan, gluten-free, halal, and kosher options daily. You can also meet with our campus dietitian for personalized recommendations.",/support
+e3486363-883a-4d2a-ad63-eeeb04a4b035,a14abe5d-e240-4f94-b5c0-5e2501821f74,,2026-07-02T16:34:21.517Z,user,"That's really impressive, most schools don't offer all that. Thanks!",/support
+01765c58-82d4-4e74-8237-2aee770ccfb0,a14abe5d-e240-4f94-b5c0-5e2501821f74,,2026-07-02T16:36:22.888Z,assistant,We pride ourselves on inclusive dining! Let me know if you need anything else.,/support

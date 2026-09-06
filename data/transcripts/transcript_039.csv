@@ -1,0 +1,9 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+8263ce38-f8a7-4fb0-a8ab-2ea0d09c3af6,dc234294-af3f-4918-b879-2fc016eed0d6,user_63435,2026-07-16T08:09:04.975Z,user,I'm transferring from community college. How many credits will transfer?,/transfer
+d3ed87d1-8bc5-4abe-9ad8-9b86e5d863c9,dc234294-af3f-4918-b879-2fc016eed0d6,user_63435,2026-07-16T08:10:33.211Z,assistant,We accept up to 64 transfer credits from accredited institutions. You can use our Transfer Credit Evaluator tool to check specific courses.,/transfer
+208dae95-671e-4e05-9c03-e0049c93b79c,dc234294-af3f-4918-b879-2fc016eed0d6,user_63435,2026-07-16T08:12:04.964Z,user,I have 72 credits. So 8 of them just disappear?,/transfer
+19a86b20-08b8-4111-9939-b24b12dece39,dc234294-af3f-4918-b879-2fc016eed0d6,user_63435,2026-07-16T08:12:49.436Z,assistant,The 64-credit cap applies to lower-division credits. Some of your courses may count as upper-division equivalents. An advisor can evaluate your specific transcript.,/transfer
+023ab759-6c10-4d6a-a065-bfc64f4018b1,dc234294-af3f-4918-b879-2fc016eed0d6,user_63435,2026-07-16T08:13:31.905Z,user,Can I send my transcript now to get an evaluation before I commit?,/transfer
+5840a7e0-b185-4317-995c-69606cc0cf2a,dc234294-af3f-4918-b879-2fc016eed0d6,user_63435,2026-07-16T08:14:29.564Z,assistant,"Yes! Submit unofficial transcripts through the Transfer Student portal for a preliminary evaluation, usually completed within 5 business days.",/transfer
+aca641b3-c3a6-4364-acf7-9b96e3a0a940,dc234294-af3f-4918-b879-2fc016eed0d6,user_63435,2026-07-16T08:17:23.248Z,user,Ok that's fair. I'll submit them today.,/transfer
+99329698-9090-4ef0-8ee3-d0c5966f6077,dc234294-af3f-4918-b879-2fc016eed0d6,user_63435,2026-07-16T08:19:51.799Z,assistant,Great! You'll receive the evaluation via email. Feel free to reach out with any follow-up questions.,/transfer

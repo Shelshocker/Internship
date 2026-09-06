@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+46912a32-51e5-4710-8662-bb81540444e1,38336901-0408-49bc-83af-a468f547edf8,user_97891,2026-05-28T14:59:25.320Z,user,The course catalog page keeps crashing on my phone,/support
+c33e1615-bf76-418a-8ced-dd3b787ec7ea,38336901-0408-49bc-83af-a468f547edf8,user_97891,2026-05-28T15:02:05.419Z,assistant,I'm sorry about that. Our mobile site is being updated. Could you try using a desktop browser or clearing your mobile browser cache?,/support
+9b24dbe6-a415-4344-9357-de3c2c1117fa,38336901-0408-49bc-83af-a468f547edf8,user_97891,2026-05-28T15:02:36.652Z,user,I shouldn't have to use a desktop to browse a website in 2026. This is terrible UX.,/support
+4c010d69-5de1-4230-9f7a-e19fbe42fc9d,38336901-0408-49bc-83af-a468f547edf8,user_97891,2026-05-28T15:05:27.064Z,assistant,"You're absolutely right, and I apologize for the inconvenience. Our web team is working on the mobile responsiveness. Can I help you find what you were looking for in the catalog?",/support
+ba5456c2-2e41-4e84-88d3-62772268faa4,38336901-0408-49bc-83af-a468f547edf8,user_97891,2026-05-28T15:05:51.956Z,user,I was trying to look up the class schedule for next semester.,/support
+68cedd05-10ef-4201-a32b-672a9cb81ea7,38336901-0408-49bc-83af-a468f547edf8,user_97891,2026-05-28T15:06:56.596Z,assistant,The Spring class schedule is available at university.edu/schedule. Here's a direct link that should work better on mobile.,/support

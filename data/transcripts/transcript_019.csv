@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+21144745-c567-47d8-a643-568417da2894,9a7cfb8d-e60f-4a3e-986c-6f25b8908fbc,,2026-06-07T03:36:40.541Z,user,My I-20 hasn't arrived and my visa interview is next week. I'm panicking.,/international
+840fb88e-69f2-4221-8bc7-470b0ed2cb5d,9a7cfb8d-e60f-4a3e-986c-6f25b8908fbc,,2026-06-07T03:38:25.414Z,assistant,I understand your concern. Let me check the status. Have you submitted all required financial documents?,/international
+689c3cd7-7b70-45bf-8a97-b54b2ce8a71f,9a7cfb8d-e60f-4a3e-986c-6f25b8908fbc,,2026-06-07T03:40:34.417Z,user,Yes everything was submitted a month ago. This delay is unacceptable.,/international
+01af2fcd-9b16-492b-833e-c0bd1e8dc839,9a7cfb8d-e60f-4a3e-986c-6f25b8908fbc,,2026-06-07T03:41:26.105Z,assistant,I see your documents were received. The I-20 processing has been delayed. I can request an expedited electronic I-20 sent via email.,/international
+f2a8f443-d0fb-4e81-acce-1a0f52f97722,9a7cfb8d-e60f-4a3e-986c-6f25b8908fbc,,2026-06-07T03:43:15.420Z,user,Why wasn't this done automatically? Other universities sent me their I-20 in a week.,/international
+fa59a1cb-a7eb-4282-9920-37767a9f7760,9a7cfb8d-e60f-4a3e-986c-6f25b8908fbc,,2026-06-07T03:43:56.759Z,assistant,I sincerely apologize for the delay. I'm requesting the expedited I-20 now. You should receive it within 24-48 hours.,/international

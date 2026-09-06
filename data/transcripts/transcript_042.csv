@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+d426141c-e593-4997-b586-e5a8e9d8e462,42eba015-f13c-4b00-835e-79e04d3c5520,user_81010,2026-07-22T19:03:17.474Z,user,I submitted my housing deposit 3 weeks ago and haven't received room selection access yet.,/housing
+adb6a2ac-465e-4a25-b8b5-48d0ab782091,42eba015-f13c-4b00-835e-79e04d3c5520,user_81010,2026-07-22T19:04:33.741Z,assistant,Room selection access is granted in waves based on deposit date. The next wave opens on May 20th.,/housing
+0b1fa2de-4dbd-4858-9c64-74fe5fbae128,42eba015-f13c-4b00-835e-79e04d3c5520,user_81010,2026-07-22T19:05:16.858Z,user,May 20th?! All the good rooms will be gone by then. I deposited on April 28th!,/housing
+63a7fb7b-646a-4303-9f57-4fcfad90f505,42eba015-f13c-4b00-835e-79e04d3c5520,user_81010,2026-07-22T19:07:45.408Z,assistant,I understand your concern. The first wave on May 15th is for deposits received before April 15th. Your April 28th deposit puts you in the second wave.,/housing
+4c2fed44-6d19-4f1e-a073-dd74a8fd17d2,42eba015-f13c-4b00-835e-79e04d3c5520,user_81010,2026-07-22T19:09:49.148Z,user,Nobody mentioned this timeline when I deposited. This whole process is poorly communicated.,/housing
+368116c3-ce09-4fb6-b4c8-681837ddcf82,42eba015-f13c-4b00-835e-79e04d3c5520,user_81010,2026-07-22T19:10:45.952Z,assistant,I'm sorry for the lack of clarity. I'll pass your feedback to the housing team. You'll still have a good selection of suite-style and apartment rooms available in the second wave.,/housing

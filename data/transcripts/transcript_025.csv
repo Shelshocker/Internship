@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+20dff158-767f-4aa5-9b07-4a665d5315fb,d87f9a63-c22b-47d0-87f6-f21990ac9f64,,2026-06-11T12:44:04.107Z,user,How do I set up my student email?,/student-portal
+c9f22347-811d-4d31-9fc7-0161655cdcfb,d87f9a63-c22b-47d0-87f6-f21990ac9f64,,2026-06-11T12:44:20.302Z,assistant,Your student email is automatically created after enrollment. Your email address is firstname.lastname@student.university.edu. Log in at mail.university.edu with your student ID.,/student-portal
+3ee7a6ae-b3f3-4671-9c97-c8f7e7f36f26,d87f9a63-c22b-47d0-87f6-f21990ac9f64,,2026-06-11T12:45:15.015Z,user,What's the default password?,/student-portal
+7c8cc431-4c6a-40b4-8945-945e6d05de4e,d87f9a63-c22b-47d0-87f6-f21990ac9f64,,2026-06-11T12:48:12.458Z,assistant,Your default password is your date of birth in MMDDYYYY format. You'll be prompted to change it on first login.,/student-portal
+cf572b45-9ee2-48bb-a98b-845d6fdcf401,d87f9a63-c22b-47d0-87f6-f21990ac9f64,,2026-06-11T12:48:30.165Z,user,"That worked, thanks! But the email interface looks really outdated compared to Gmail.",/student-portal
+91c43c22-9b92-4e83-9573-4ab94c3d713a,d87f9a63-c22b-47d0-87f6-f21990ac9f64,,2026-06-11T12:49:59.547Z,assistant,"We're actually transitioning to Google Workspace for Education next semester, which will give you a full Gmail experience with your university email.",/student-portal

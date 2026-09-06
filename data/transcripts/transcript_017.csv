@@ -1,0 +1,7 @@
+message_id,session_id,user_id,timestamp,sender,message_text,page_url
+3b9df210-3d59-487a-b46c-6b52d9b20450,f3dd5ee9-61e6-4e4f-bc1c-2ead3f2a3c94,user_95980,2026-06-06T15:55:07.818Z,user,How do I apply for graduation?,/support
+100624f6-ec43-4bbf-9639-22becec07032,f3dd5ee9-61e6-4e4f-bc1c-2ead3f2a3c94,user_95980,2026-06-06T15:57:44.503Z,assistant,You can apply for graduation through the Student Portal under 'Academics > Apply for Graduation'. The deadline for Spring graduation is February 1st.,/support
+798d921c-f8c9-4eff-9b7b-0fcb0b2061aa,f3dd5ee9-61e6-4e4f-bc1c-2ead3f2a3c94,user_95980,2026-06-06T15:58:04.582Z,user,Is there a fee?,/support
+1a39cfb2-9356-4842-aff1-258534e748b0,f3dd5ee9-61e6-4e4f-bc1c-2ead3f2a3c94,user_95980,2026-06-06T16:00:24.980Z,assistant,"The graduation fee is $75, which covers your diploma, ceremony participation, and cap and gown rental.",/support
+bde885a2-484b-403b-98dd-55938968264b,f3dd5ee9-61e6-4e4f-bc1c-2ead3f2a3c94,user_95980,2026-06-06T16:02:25.023Z,user,"That includes the cap and gown? Nice, my friend at another school had to buy theirs for $60.",/support
+42988311-8d8a-41ea-a35e-4a39042f8fef,f3dd5ee9-61e6-4e4f-bc1c-2ead3f2a3c94,user_95980,2026-06-06T16:04:18.464Z,assistant,"Yes, it's all included! You'll receive your cap and gown at the graduation rehearsal.",/support
