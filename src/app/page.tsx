@@ -19,6 +19,7 @@ import { CategoryChart } from "@/components/dashboard/category-chart";
 import { Filters } from "@/components/dashboard/filters";
 import { DashboardSkeleton } from "@/components/ui/skeleton";
 import { ConversationBrowser } from "@/components/dashboard/conversation-browser";
+import { PasswordGate } from "@/components/password-gate";
 
 type TabId = "dashboard" | "conversations";
 
@@ -203,6 +204,7 @@ export default function DashboardPage() {
   }, [data, selectedCategory, searchQuery]);
 
   return (
+    <PasswordGate>
     <div className="min-h-screen">
       {/* Sidebar */}
       <aside className="fixed left-0 top-0 bottom-0 w-[72px] glass flex flex-col items-center py-6 z-50">
@@ -413,6 +415,7 @@ export default function DashboardPage() {
         )}
       </main>
     </div>
+    </PasswordGate>
   );
 }
 
