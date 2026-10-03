@@ -272,12 +272,12 @@ export class GeminiAnalyzer implements LLMAnalyzer {
     }
 
     const model = this.genAI.getGenerativeModel({
-      model: "gemini-2.0-flash",
+      model: "gemini-3.8-flash",
       generationConfig: {
         responseMimeType: "application/json",
         temperature: 0.3,
       },
-      systemInstruction: SYSTEM_PROMPT + `\n\nYour response must strictly follow this JSON schema:\n${JSON.stringify(ANALYSIS_JSON_SCHEMA, null, 2)}`,
+      systemInstruction: SYSTEM_PROMPT + `\n\nYour response must strictly follow this JSON schema:\n${JSON.stringify(ANALYSIS_JSON_SCHEMA)}`,
     });
 
     // Process batches SEQUENTIALLY with retry to avoid rate limits
